@@ -15,3 +15,9 @@
 - ☕ Java
 - 🧱 Spigot
 - ⚙️ Minecraft Plugin Development
+  
+---
+
+## 📫 Contact
+Discord: theamirox
+Telegram: @TheAmiRoX30
