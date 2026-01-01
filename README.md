@@ -22,3 +22,8 @@
 - 💬 Discord: `theamirox`
 - ✈️ Telegram: @TheAmiRoX30
 - 🐙 GitHub: https://github.com/TheAmiRoX
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAmiRoX&show_icons=true&theme=tokyonight)
