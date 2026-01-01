@@ -11,10 +11,11 @@
 
 ---
 
-### Skills
-- ☕ Java
-- 🧱 Spigot
-- ⚙️ Minecraft Plugin Development
+### 🏷️ Skills & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-6DB33F?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
