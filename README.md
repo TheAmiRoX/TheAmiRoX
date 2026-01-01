@@ -19,5 +19,5 @@
 ---
 
 ## 📫 Contact
-Discord: theamirox
-Telegram: @TheAmiRoX30
+-Discord: theamirox
+-Telegram: @TheAmiRoX30
